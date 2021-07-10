@@ -1,4 +1,4 @@
-FROM php:7.3-apache
+FROM php:8.0.8-apache
 
 COPY src/ /var/www/html/
 
