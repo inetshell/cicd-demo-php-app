@@ -1,4 +1,4 @@
 <?php
-    echo "Saludos GNU Linux Latino!!";
+    echo "GNU Linux Latino!!";
     phpinfo();
 ?>
